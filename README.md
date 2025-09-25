@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FreitasHenrique
-- 👀 I’m interested in Js,flutter,PHP
-- 🌱 I’m currently learning flutter//PHP
-- 💞️ I’m looking to collaborate on anything i can learn something new
+- 👀I'm interested in NodeJs,JavaScript,Python
+- 🌱 I’m currently learning NodeJs,JavaScript,Python
 - 📫 How to reach me crystarfreitas@gmail.com
 
 <!---
